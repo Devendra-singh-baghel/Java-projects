@@ -1,4 +1,4 @@
-# futureintern-project
-In this repository I have added all my projects for future interns.
+# Java-projects
+In this repository I have added all my Java projects.
 <br>
 Author - Devendra Singh Baghel
